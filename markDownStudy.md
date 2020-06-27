@@ -47,7 +47,12 @@
 
 ## 内联代码
 
-通过使用 'npm install' 的方式去安装'webpack.json'包
+通过使用 `npm install` 的方式去安装`webpack.json`包.
+
+### html代码
+
+
+`<div id="app">这里是vue控制的模板内容</div>`
 
 ## 代码块
 代码块1
@@ -59,12 +64,24 @@ var server = http.createServer(function(req, resp){
 server.listen(3000)
 ```
 代码2
+
 ```java
 public  static void main(String[] args){
     System.out.println("hello Word")
 }
 
 ````
+
+## 分割线
+
+***或者---都是分割线
+
+---
+
+//***
+
+//---
+
 ## 任务列表
 
 - [x] 睡醒了要刷牙
@@ -76,6 +93,6 @@ public  static void main(String[] args){
 
 项目   |   金额
 -------|--------
-按摩    | 200
+按摩   | 200
 吃饭   | 900
 蹦迪   | 1000
